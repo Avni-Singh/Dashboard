@@ -222,12 +222,12 @@ button.web-main_s-art-co-he-bu-upload {
   padding: 0;
   margin: 0;
 }
-
 .web-main_s-art-con-i-p-wrap-first-link li {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 15px;  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 8px;
 }
 .web-main_s-art-con-i-p-wrap-first-link li p {
     margin: 8px;
